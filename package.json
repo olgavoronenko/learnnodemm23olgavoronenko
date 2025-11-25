@@ -13,9 +13,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
   "bugs": {
     "url": "https://github.com/olgavoronenko/learnnodemm23olgavoronenko/issues"
   },
-  "homepage": "https://github.com/olgavoronenko/learnnodemm23olgavoronenko#readme"
+  "homepage": "https://github.com/olgavoronenko/learnnodemm23olgavoronenko#readme",
+  "devDependencies": {
+    "webpack": "^5.103.0",
+    "webpack-cli": "^6.0.1"
+  }
 }

@@ -1,2 +1,2 @@
-const fs= require('fs');
-fs.writeFileSync('log.txt', 'Hello File\n');
+import fs from 'fs';
+fs.writeFileSync('log.txt', 'Hello File!!!\n');

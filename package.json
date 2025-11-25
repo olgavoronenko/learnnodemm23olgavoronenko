@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/olgavoronenko/learnnodemm23olgavoronenko/issues"
   },
-  "homepage": "https://github.com/olgavoronenko/learnnodemm23olgavoronenko#readme",
-  "dependencies": {
-    "boxen": "^8.0.1"
-  }
+  "homepage": "https://github.com/olgavoronenko/learnnodemm23olgavoronenko#readme"
 }
